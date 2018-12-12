@@ -1,0 +1,2 @@
+# adscu
+ADShortCU.TlinKs
